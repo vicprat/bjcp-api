@@ -1,0 +1,45 @@
+datasource db {
+  provider = "postgresql"
+  url      = env("DATABASE_URL")
+}
+
+generator client {
+  provider = "prisma-client-js"
+}
+
+model Category {
+  id          Int         @id @default(autoincrement()) 
+  name        String
+  description String
+  styles      BeerStyle[] 
+}
+
+model BeerStyle {
+  id                Int      @id @default(autoincrement())
+  name              String
+  category_id       Int
+  category          Category @relation(fields: [category_id], references: [id])
+  style_id          String?
+  overall_impression String?
+  aroma             String?
+  appearance        String?
+  flavor            String?
+  mouthfeel         String?
+  comments          String?
+  history           String?
+  style_comparison  String?
+  tags              String?
+  original_gravity_min Float?
+  original_gravity_max Float?
+  international_bitterness_units_min Float?
+  international_bitterness_units_max Float?
+  final_gravity_min Float?
+  final_gravity_max Float?
+  alcohol_by_volume_min Float?
+  alcohol_by_volume_max Float?
+  color_min         Float?
+  color_max         Float?
+  ingredients       String?
+  examples          String?
+  style_guide       String?
+}
