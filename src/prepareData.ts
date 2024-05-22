@@ -2,7 +2,7 @@ import fs from 'fs'
 import path from 'path'
 
 const rawData = fs.readFileSync(
-  path.join(__dirname, '..', 'bjcp_styleguide-2021.json'),
+  path.join(__dirname, './data', 'bjcp_styleguide-2021.json'),
   'utf-8'
 )
 const data = JSON.parse(rawData)
@@ -60,10 +60,10 @@ beers.forEach((beer: any) => {
 })
 
 fs.writeFileSync(
-  path.join(__dirname, '..', 'beerCategories.json'),
+  path.join(__dirname, './data', 'beerCategories.json'),
   JSON.stringify(categories, null, 2)
 )
 fs.writeFileSync(
-  path.join(__dirname, '..', 'beerStyles.json'),
+  path.join(__dirname, './data', 'beerStyles.json'),
   JSON.stringify(beerStyles, null, 2)
 )

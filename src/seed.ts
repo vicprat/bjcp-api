@@ -5,14 +5,16 @@ import path from 'path'
 const prisma = new PrismaClient()
 
 const categoriesData = JSON.parse(
-  fs.readFileSync(path.join(__dirname, '..', 'beerCategories.json'), 'utf-8')
+  fs.readFileSync(
+    path.join(__dirname, './data', 'beerCategories.json'),
+    'utf-8'
+  )
 )
 const beerStylesData = JSON.parse(
-  fs.readFileSync(path.join(__dirname, '..', 'beerStyles.json'), 'utf-8')
+  fs.readFileSync(path.join(__dirname, './data', 'beerStyles.json'), 'utf-8')
 )
 
 async function main() {
-  // Seed Categories
   const categoryMap: { [key: string]: number } = {}
   for (const category of categoriesData) {
     const createdCategory = await prisma.category.create({
@@ -24,7 +26,6 @@ async function main() {
     categoryMap[category.category_id] = createdCategory.id
   }
 
-  // Seed Beer Styles
   for (const beerStyle of beerStylesData) {
     const category_id = categoryMap[beerStyle.category_id]
     if (!category_id) {
