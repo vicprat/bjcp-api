@@ -1,0 +1,206 @@
+[
+  {
+    "style_guide": "2015",
+    "category": "Standard American Beer",
+    "category_id": "1",
+    "category_description": "This category describes everyday American beers that have a wide public appeal. Containing both ales and lagers, the beers of this category are not typically complex, and have smooth, accessible flavors. The ales tend to have lager-like qualities, or are designed to appeal to mass-market lager drinkers as crossover beers. Mass-market beers with a more international appeal or origin are described in the International Lager category."
+  },
+  {
+    "style_guide": "2015",
+    "category": "International Lager",
+    "category_id": "2",
+    "category_description": "International lagers are the premium mass-market lagers produced in most countries in the world. Whether developed from American or European styles, they all tend to have a fairly uniform character and are heavily marketed. Loosely derived from original Pilsner-type lagers, with colored variations having additional malt flavors while retaining a broad appeal to most palates. In many countries, the styles will be referred to by their local country names. The use of the term “international” doesn’t mean that any beers are actually labeled as such; it is more of a categorization of similar beers produced worldwide."
+  },
+  {
+    "style_guide": "2015",
+    "category": "Czech Lager",
+    "category_id": "3",
+    "category_description": "Czech lagers are generally divided by gravity class (draft, lager, special) and color (pale, amber, dark). The Czech names for these categories are světlé (pale), polotmavé (amber), and tmavé (dark). The gravity classes are výčepní (draft, 7–10 °P), ležák (lager, 11–12 °P), and speciální (special, 13 °P+). Pivo is of course the Czech word for beer. The division into gravity classes is similar to the German groupings of schankbier, vollbier, and starkbier, although at different gravity ranges. Czech beers within the classes are often simply referenced by their gravity. There are often variations within the gravity-color groupings, particularly within the speciální class. The style guidelines combine some of these classes, while other beers in the Czech market are not described (such as the strong Czech Porter). This is not to imply that the categories below are the full coverage of Czech beers, simply a way of grouping some of the more commonly found types for judging purposes."
+  },
+  {
+    "style_guide": "2015",
+    "category": "Pale Malty European Lager",
+    "category_id": "4",
+    "category_description": "This style category contains malty, pale, Pilsner malt-driven German lagers of vollbier to starkbier strength. While malty, they are still well-attenuated, clean lagers, as are most German beers."
+  },
+  {
+    "style_guide": "2015",
+    "category": "Pale Bitter European Beer",
+    "category_id": "5",
+    "category_description": "This category describes German-origin beers that are pale and have an even to bitter balance with a mild to moderately strong hoppy character featuring classic German hops. They are generally bottom-fermented or are lagered to provide a smooth profile, and are well-attenuated as are most German beers."
+  },
+  {
+    "style_guide": "2015",
+    "category": "Amber Malty European Lager",
+    "category_id": "6",
+    "category_description": "This category groups amber-colored, German-origin, bottom-fermented lagerbiers that have a malty balance and are vollbier to starkbier in strength."
+  },
+  {
+    "style_guide": "2015",
+    "category": "Amber Bitter European Beer",
+    "category_id": "7",
+    "category_description": "This category groups amber-colored, evenly balanced to bitter balanced beers of German or Austrian origin."
+  },
+  {
+    "style_guide": "2015",
+    "category": "Dark European Lager",
+    "category_id": "8",
+    "category_description": "This category contains German vollbier lagers darker than amber-brown color."
+  },
+  {
+    "style_guide": "2015",
+    "category": "Strong European Beer",
+    "category_id": "9",
+    "category_description": "This category contains more strongly flavored and higher alcohol lagers from Germany and the Baltic region. Most are dark, but some pale versions are known."
+  },
+  {
+    "style_guide": "2015",
+    "category": "German Wheat Beer",
+    "category_id": "10",
+    "category_description": "This category contains vollbier- and starkbier-strength German wheat beers without sourness, in light and dark colors."
+  },
+  {
+    "style_guide": "2015",
+    "category": "British Bitter",
+    "category_id": "11",
+    "category_description": "The family of British bitters grew out of English pale ales as a draught product in the late 1800s. The use of crystal malts in bitters became more widespread after WWI. Traditionally served very fresh under no pressure (gravity or hand pump only) at cellar temperatures (i.e., “real ale”). Most bottled or kegged versions of UK-produced bitters are often higher-alcohol and more highly carbonated versions of cask products produced for export, and have a different character and balance than their draught counterparts in Britain (often being sweeter and less hoppy than the cask versions). These guidelines reflect the “real ale” version of the style, not the export formulations of commercial products."
+  },
+  {
+    "style_guide": "2015",
+    "category": "Pale Commonwealth Beer",
+    "category_id": "12",
+    "category_description": "This category contains pale, moderately-strong, hop-forward, bitter ales from countries within the former British Empire."
+  },
+  {
+    "style_guide": "2015",
+    "category": "Brown British Beer",
+    "category_id": "13",
+    "category_description": "While Dark Mild, Brown Ale, and English Porter may have long and storied histories, these guidelines describe the modern versions. They are grouped together for judging purposes only since they often have similar flavors and balance, not because of any implied common ancestry. The similar characteristics are low to moderate strength, dark color, generally malty balance, and British ancestry. These styles have no historic relationship to each other; especially, none of these styles evolved into any of the others, or was ever a component of another. The category name was never used historically to describe this grouping of beers; it is our name for the judging category. “Brown Beer” was a distinct and important historical product, and is not related to this category name."
+  },
+  {
+    "style_guide": "2015",
+    "category": "Scottish Ale",
+    "category_id": "14",
+    "category_description": "The original meaning of ‘schilling’ (/-) ales have been described incorrectly for years. A single style of beer was never designated as a 60/-, 70/- or 80/-. The schillings only referring to the cost of the barrel of beer. Meaning there were 54/- Stouts and 86/- IPAs and so on. The Scottish Ales in question were termed Light, Heavy and Export which cover the spectrum of costs from around 60/- to 90/- and simply dark, malt-focused ales. The larger 120/- ales fall outside of this purview as well as the strongest Scotch ales (aka Wee Heavy).The Scottish Light, Heavy and Export guidelines read nearly the same for each style of beers. As the gravity increases, so does the character of the beers in question. Historically, the three types of beer were parti-gyled to different strengths, and represented an adaptation of English pale ales but with reduced strengths and hopping rates, and darker colors (often from added caramel). More modern versions (post-WWII, at least), tended to use more complex grists."
+  },
+  {
+    "style_guide": "2015",
+    "category": "Irish Beer",
+    "category_id": "15",
+    "category_description": "The traditional beers of Ireland contained in this category are amber to dark, top-fermented beers of moderate to slightly strong strength, and are often widely misunderstood due to differences in export versions, or overly focusing on the specific attributes of beer produced by high-volume, well-known breweries. Each of the styles in this grouping has a wider range than is commonly believed."
+  },
+  {
+    "style_guide": "2015",
+    "category": "Dark British Beer",
+    "category_id": "16",
+    "category_description": "This category contains average to strong, bitter to sweet, modern British and Irish stouts that originated in England even if some are now more widely associated with Ireland. In this case, “British” means the broader British Isles not Great Britain."
+  },
+  {
+    "style_guide": "2015",
+    "category": "Strong British Ale",
+    "category_id": "17",
+    "category_description": "This category contains the stronger, non-roasty beers of the British Isles."
+  },
+  {
+    "style_guide": "2015",
+    "category": "Pale American Ale",
+    "category_id": "18",
+    "category_description": "This category contains modern American ales of average strength and light color that are moderately malty to moderately bitter."
+  },
+  {
+    "style_guide": "2015",
+    "category": "Amber and Brown American Beer",
+    "category_id": "19",
+    "category_description": "This category contains modern American amber and brown warm-fermented beers of standard strength that can be balanced to bitter."
+  },
+  {
+    "style_guide": "2015",
+    "category": "American Porter and Stout",
+    "category_id": "20",
+    "category_description": "These beers all evolved from their English namesakes to be wholly transformed by American craft brewers. Generally, these styles are bigger, stronger, more roast-forward, and more hop-centric than their Anglo cousins. These styles are grouped together due to a similar shared history and flavor profile."
+  },
+  {
+    "style_guide": "2015",
+    "category": "IPA",
+    "category_id": "21",
+    "category_description": "The IPA category is for modern American IPAs and their derivatives. This does not imply that English IPAs aren’t proper IPAs or that there isn’t a relationship between them. This is simply a method of grouping similar styles for competition purposes. English IPAs are grouped with other English-derived beers, and the stronger Double IPA is grouped with stronger American beers. The term “IPA” is intentionally not spelled out as “India Pale Ale” since none of these beers historically went to India, and many aren’t pale. However, the term IPA has come to be a balance-defined style in modern craft beer."
+  },
+  {
+    "style_guide": "2015",
+    "category": "Strong American Ale",
+    "category_id": "22",
+    "category_description": "This category includes modern American strong ales with a varying balance of malt and hops. The category is defined mostly by alcohol strength and a lack of roast."
+  },
+  {
+    "style_guide": "2015",
+    "category": "European Sour Ale",
+    "category_id": "23",
+    "category_description": "This category contains the traditional sour beer styles of Europe that are still produced, many (but not all) with a wheat component. Most have low bitterness, with the sourness of the beer providing the balance that hop bitterness would otherwise contribute. Some are sweetened or flavored, whether at the brewery or upon consumption."
+  },
+  {
+    "style_guide": "2015",
+    "category": "Belgian Ale",
+    "category_id": "24",
+    "category_description": "This category contains the maltier to balanced, more highly flavored Belgian and French ales."
+  },
+  {
+    "style_guide": "2015",
+    "category": "Strong Belgian Ale",
+    "category_id": "25",
+    "category_description": "This category contains the pale, well-attenuated, balanced to bitter beers, often more driven by yeast character than malt flavors, with generally higher alcohol (although a range exists within styles)."
+  },
+  {
+    "style_guide": "2015",
+    "category": "Trappist Ale",
+    "category_id": "26",
+    "category_description": "Trappist is a protected legal appellation, and cannot be used commercially except by genuine Trappist monasteries that brew their own beer. However, we can use it to describe the type or styles of beer produced by those breweries and those who make beers of a similar style. Trappist type beers are all characterized by very high attenuation, high carbonation through bottle conditioning, and interesting (and often aggressive) yeast character."
+  },
+  {
+    "style_guide": "2015",
+    "category": "Historical Beer",
+    "category_id": "27",
+    "category_description": "The Historical Beer category contains styles that either have all but died out in modern times, or that were much more popular in past times and are known only through recreations. This category can also be used for traditional or indigenous beers of cultural importance within certain countries. Placing a beer in the historical category does not imply that it is not currently being produced, just that it is a very minor style or perhaps is in the process of rediscovery by craft brewers."
+  },
+  {
+    "style_guide": "2015",
+    "category": "American Wild Ale",
+    "category_id": "28",
+    "category_description": "The name American Wild Ale is in common use by craft brewers and homebrewers. However, the word Wild does not imply that these beers are necessarily spontaneously-fermented; rather, it indicates that they are influenced by microbes other than traditional brewer’s yeasts. This category is intended for a wide range of beers that do not fit traditional European sour or wild styles. All of the styles in this category are essentially specialty beers where many creative interpretations are possible, and the styles are defined only by the use of specific fermentation profiles and ingredients. As specialty styles, the mandatory description provided by the entrant is of the utmost importance to the judge."
+  },
+  {
+    "style_guide": "2015",
+    "category": "Fruit Beer",
+    "category_id": "29",
+    "category_description": "The Fruit Beer category is for beer made with any fruit or combination of fruit under the definitions of this category. The culinary, not botanical, definition of fruit is used here – fleshy, seed-associated structures of plants that are sweet or sour, and edible in the raw state. Examples include pome fruit (apple, pear, quince), stone fruit (cherry, plum, peach, apricot, mango, etc.), berries (any fruit with the word ‘berry’ in it), currants, citrus fruit, dried fruit (dates, prunes, raisins, etc.), tropical fruit (banana, pineapple, guava, papaya, etc.), figs, pomegranate, prickly pear, and so on. It does not mean spices, herbs, or vegetables as defined in Category 30, especially botanical fruit treated as culinary vegetables. Basically, if you have to justify a fruit using the word “technically” as part of the description, then that’s not what we mean."
+  },
+  {
+    "style_guide": "2015",
+    "category": "Spiced Beer",
+    "category_id": "30",
+    "category_description": "We use the common or culinary definitions of spices, herbs, and vegetables, not botanical or scientific ones. In general, spices are the dried seeds, seed pods, fruit, roots, bark, etc. of plants used for flavoring food. Herbs are leafy plants or parts of plants (leaves, flowers, petals, stalks) used for flavoring foods. Vegetables are savory or less sweet edible plant products, used primarily for cooking or sometimes eating raw. Vegetables can include some botanical fruit. This category explicitly includes all culinary spices, herbs, and vegetables, as well as nuts (anything with ‘nut’ in the name, including coconut), chile peppers, coffee, chocolate, spruce tips, rose hips, hibiscus, fruit peels/zest (but not juice), rhubarb, and the like. It does not include culinary fruit or grains. Flavorful fermentable sugars and syrups (agave nectar, maple syrup, molasses, sorghum, treacle, honey, etc.) can be included only in combination with other allowable ingredients, and should not have a dominant character. Any combination of allowable ingredients may also be entered. See Category 29 for a definition and examples of fruit."
+  },
+  {
+    "style_guide": "2015",
+    "category": "Alternative Fermentables Beer",
+    "category_id": "31",
+    "category_description": "This category contains specialty beers that have some additional ingredient (grain or sugar) that adds a distinctive character."
+  },
+  {
+    "style_guide": "2015",
+    "category": "Smoked Beer",
+    "category_id": "32",
+    "category_description": "This category contains specialty beers that have a smoke character."
+  },
+  {
+    "style_guide": "2015",
+    "category": "Wood Beer",
+    "category_id": "33",
+    "category_description": "This category contains specialty beers with a wood-aged character, with or without added alcohol character."
+  },
+  {
+    "style_guide": "2015",
+    "category": "Specialty Beer",
+    "category_id": "34",
+    "category_description": "While there are many Specialty-Type Beers in these guidelines, the Specialty Beer category is intended for those beers that do not fit anywhere else. As the number of Specialty-Type categories is quite large, most beers are expected to be entered elsewhere unless there is something quite unusual or unique about them. Please check each other Specialty-Type category first before deciding to enter a beer in one of these styles."
+  }
+]
