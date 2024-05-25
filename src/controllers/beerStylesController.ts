@@ -85,8 +85,7 @@ export const scrapeBeerStyles = async (
             document.querySelectorAll('.style-attributes a')
           )
             .map((tag) => tag.textContent?.trim())
-            .filter(Boolean)
-            .join(', ')
+            .filter((tag): tag is string => Boolean(tag))
 
           const og = parseRange(getCellText('OG'))
           const ibu = parseRange(getCellText('IBU'))

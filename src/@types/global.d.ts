@@ -10,7 +10,7 @@ export interface BeerStyle {
   comments: string
   history: string
   style_comparison: string
-  tags: string
+  tags: string[]
   original_gravity_min: number | null
   original_gravity_max: number | null
   international_bitterness_units_min: number | null
