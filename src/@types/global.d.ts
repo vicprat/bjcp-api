@@ -31,3 +31,23 @@ export interface BeerCategory {
   category_id: string
   category_description: string
 }
+export interface YeastData {
+  brand: string
+  yeast_name: string
+  yeast_id: string
+  yeast_description: string
+  yeast_strain: string
+  beer_styles: string[]
+  attenuation_min: number
+  attenuation_max: number
+  fermentation_temperature_range_min: number
+  fermentation_temperature_range_max: number
+  floculation: string
+  aroma: string
+  abv_alcohol_tolerance: number
+  pitching_rate: string
+}
+export interface YeastUrl {
+  name: string
+  url: string
+}
